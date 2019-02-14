@@ -39,7 +39,7 @@ public class start {
         System.out.println(imie1+ ";"+ imie2+ ";"+ imie3);
 
 
-        
+
 
 
 
